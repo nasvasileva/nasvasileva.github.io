@@ -46,7 +46,7 @@
 			display: block;
 			list-style: none;
 			float: left;
-			margin: 0 1px;
+			margin: 0;
 			padding: 0;
 		}
 
@@ -55,14 +55,13 @@
 			font-size: 15px;
 			color: #fff;
 			text-decoration: none;
-			padding: 0 40px;
+			padding: 10px 25px;
 		}
 
 		#menu > ul > li > a:hover, #menu > ul > li > a.current{
 			background: url("../img/bg_menu_dark.png");
 			border-left: 1px solid #838383;
 			border-right: 1px solid #838383;
-			margin: 0;
 		}
 
         #page > .menu{
