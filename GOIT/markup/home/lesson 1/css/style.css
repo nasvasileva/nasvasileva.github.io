@@ -1,0 +1,39 @@
+body {
+	background: #EEEEEE;
+	font-size: 18px;
+}
+
+
+
+ .photo,h3 { 
+  text-align:center;
+}
+
+.line {
+	border-top:1.5px solid grey;
+ } 
+ span {  
+ 	display:block;
+ 	
+ }
+
+ 
+
+p,ul {
+	margin-left: 10px;
+	
+}
+
+
+
+
+#head {
+	width: 460px;
+	background: #fff;
+	margin: 0 auto;
+	padding: 30px 50px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	
+}
+
+
