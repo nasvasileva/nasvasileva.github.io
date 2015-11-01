@@ -55,15 +55,21 @@
 			font-size: 15px;
 			color: #fff;
 			text-decoration: none;
-			padding: 10px 25px;
+			padding:10px 40px;
+			margin: 0 1px;
 		}
 
-		#menu > ul > li > a:hover, #menu > ul > li > a.current{
+		#menu > ul > li > a.current{
 			background: url("../img/bg_menu_dark.png");
 			border-left: 1px solid #838383;
 			border-right: 1px solid #838383;
+			margin: 0;
 		}
-
+		
+		#menu > ul > li > a:hover {
+			text-decoration: underline;
+		}
+		
         #page > .menu{
         	width: 288px;
         	padding: 0 48px 0 0;
