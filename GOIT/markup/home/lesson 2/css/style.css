@@ -34,7 +34,7 @@
 		margin-left: 0;
 	}
 
-	.main_menu li a:hover;	{
+	.main_menu li a:hover {
 		padding: 0 23px 0 23px;
 		background: linear-gradient(to top, #2e2e2e,#4a4a4a);
 		border-left: solid 1px #838383;
