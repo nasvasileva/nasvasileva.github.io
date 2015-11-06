@@ -75,7 +75,7 @@
 	}
 
 	.sidebar li:hover{
-		widows: 121px;
+		width: 214px;
 		padding: 0 0 0 25px;
 		background-color: #f9f9f9;
 		color: #2c2c2c;
@@ -90,7 +90,7 @@
 	}
 	.content {
 		float: right;
-		width: 627px;
+		width: 649px;
 		text-align: left;
 	}
 
